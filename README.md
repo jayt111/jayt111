@@ -2,7 +2,7 @@
 
 First Class MSci Computer Science graduate from the University of Nottingham.
 
-I'm a software developer interested in desktop application development, high-performance software, graphics programming and game programming.
+I'm a software developer interested in back-end development, desktop application development, high-performance software, graphics programming and game programming.
 
 ## Interested in
 - Desktop application development
